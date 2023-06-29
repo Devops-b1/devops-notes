@@ -1,0 +1,14 @@
+# git add .
+
+# git commit -m "this is my first java file" .
+
+[master (root-commit) 28b2fa9] this is my first java file
+ 1 file changed, 6 insertions(+)
+ create mode 100644 git.java
+
+# git log
+commit 28b2fa9cbfcf450e8b4e66485076cb1d9e290e0a (HEAD -> master)
+Author: Pankaj <Pankaj@gmail.com>
+Date:   Thu Jun 29 01:24:41 2023 +0530
+
+
